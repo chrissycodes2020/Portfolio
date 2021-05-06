@@ -2,6 +2,13 @@
     height: 300px !important;
     padding-top: 30px !important;
     padding-bottom: 30px !important;
+    transition: 1400ms;
+   
+}
+
+.logo-nav:hover {
+    transform: rotate(360deg);
+    transition: 1400ms;
 }
 
 .futura {

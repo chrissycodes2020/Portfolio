@@ -5,11 +5,47 @@
 }
 
 .futura {
-    font-family: futura-pt-bold, sans-serif;
-    font-weight: 700;
-    font-style: normal;
+    font-family: futura-pt-bold, sans-serif !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    text-transform: uppercase !important;
+
 
 }
+
+.futura-maingrid {
+    font-family: futura-pt-bold, sans-serif !important;
+    
+    font-weight: 700 !important;
+    font-style: normal !important;
+    text-transform: uppercase !important;
+
+}
+
+.futura-p {
+    font-family: futura, sans-serif !important;
+    font-weight: 100 !important;
+    font-style: normal !important;
+
+}
+
+.grapefruit {
+    margin-left: 18px !important;
+    margin-top: 163px !important;
+    padding-left: 24px !important;
+}
+
+.mt {
+    margin-top: 30px !important;
+    margin-left: -26 !important;
+}
+
+.sourcecode-subtitle {
+    font-family: 'Source Code Pro', monospace !important;
+    font-weight: 500 !important;
+}
+
+
 
 
 
